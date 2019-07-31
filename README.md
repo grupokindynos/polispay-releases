@@ -20,7 +20,7 @@ PolisPay includes the following features.
 * Full compatibility with **BIP39** (Mnemonic Phrases) and **BIP32** (HD Wallets).  
 * On-Device Private Key storage, no data gets into our servers. You are in total control of your assets.  
 
-![macOS App]()
+![macOS App](src/mac_app.png)
 
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
