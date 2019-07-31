@@ -4,8 +4,10 @@
 
 For further information please make sure you check the official [PolisPay Website](https://polispay.com/home).
 
+![](src/iphone_app.png)
+
 ## Latest Release
-Latest version is [v7.2.0](), you can read the changelog there!
+Latest version is [v7.2.0](https://github.com/grupokindynos/polispay-releases/releases/tag/v7.1.8), you can read the changelog there!
 
 ## PolisPay Multi Currency Wallet
 
@@ -13,9 +15,12 @@ PolisPay is the best non-custodial multi currency wallet. Keep your crypto safe 
 
 PolisPay includes the following features.
 
-* PolisPay Shift: instant conversion between cryptos.
-* ElectrumX compatibility: add your own ElectrumX Server to keep track of your wallet.
-* Full compatibility with BIP39 (Mnemonic Phrases) and BIP32 (HD Wallets).
+* PolisPay Shift: instant conversion between cryptos.  
+* ElectrumX compatibility: add your own ElectrumX Server to keep track of your wallet.  
+* Full compatibility with **BIP39** (Mnemonic Phrases) and **BIP32** (HD Wallets).  
+* On-Device Private Key storage, no data gets into our servers. You are in total control of your assets.  
+
+![macOS App]()
 
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
