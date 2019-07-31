@@ -22,6 +22,21 @@ PolisPay includes the following features.
 
 ![macOS App](src/mac_app.png)
 
+## Supported Coins
+
+* Polis (POLIS)
+* Bitcoin (BTC)
+* Dash (DASH)
+* Zcoin (XZC)
+* ColossusXT (COLX)
+* DigiByte (DGB)
+* GINcoin (GIN)
+* Groestlcoin (GRS)
+* Litecoin (LTC)
+* MNPCoin (MNP)
+* DeepOnion (ONION)
+* Snowgem (XSG)
+
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
 
