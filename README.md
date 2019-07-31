@@ -28,6 +28,8 @@ PolisPay's code is private as it contains important information used to communic
 ## Mobile Apps
 PolisPay is also available in iOS and Android. We hope you'll like them!
 
-  <a href='https://play.google.com/store/apps/details?id=com.polispay.copay&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<div class='row'>
+  <a href='https://play.google.com/store/apps/details?id=com.polispay.copay&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='width:35%'/></a>
 
-<a href="https://apps.apple.com/us/app/polispay-crypto-wallet/id1351572060?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-02-20&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+  <a href='https://apps.apple.com/mx/app/polispay-crypto-wallet/id1351572060?l=en'><img alt='Get it on the App Store' src='src/as_badge.svg' style='width:35%'/></a>
+</div>
