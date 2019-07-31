@@ -29,7 +29,7 @@ PolisPay's code is private as it contains important information used to communic
 PolisPay is also available in iOS and Android. We hope you'll like them!
 
 <div class='row'>
-  <a href='https://play.google.com/store/apps/details?id=com.polispay.copay&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='height:100px'/></a>
+  <a href='https://play.google.com/store/apps/details?id=com.polispay.copay&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='width:35%'/></a>
 
-  <a href='https://apps.apple.com/mx/app/polispay-crypto-wallet/id1351572060?l=en'><img alt='Get it on the App Store' src='src/as_badge.svg' style='height:72px'/></a>
+  <a href='https://apps.apple.com/mx/app/polispay-crypto-wallet/id1351572060?l=en'><img alt='Get it on the App Store' src='src/as_badge.svg' style='width:35%'/></a>
 </div>
