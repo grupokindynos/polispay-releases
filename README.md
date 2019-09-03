@@ -7,7 +7,7 @@ For further information please make sure you check the official [PolisPay Websit
 ![](src/iphone_app.png)
 
 ## Latest Release
-Latest version is [v7.2.1](https://github.com/grupokindynos/polispay-releases/releases/tag/v7.2.0), you can read the changelog there!
+Latest version is [v7.2.3](https://github.com/grupokindynos/polispay-releases/releases/tag/v7.2.3), you can read the changelog there!
 
 ## PolisPay Multi Currency Wallet
 
@@ -19,6 +19,7 @@ PolisPay includes the following features.
 * ElectrumX compatibility: add your own ElectrumX Server to keep track of your wallet.  
 * Full compatibility with **BIP39** (Mnemonic Phrases) and **BIP32** (HD Wallets).  
 * On-Device Private Key storage, no data gets into our servers. You are in total control of your assets.  
+* Vouchers *[Open Beta]*: Pay for several services using Polis! Gift Cards have never been easier!
 
 ![macOS App](src/mac_app.png)
 
@@ -30,12 +31,11 @@ PolisPay includes the following features.
 * Zcoin (XZC)
 * ColossusXT (COLX)
 * DigiByte (DGB)
-* GINcoin (GIN)
 * Groestlcoin (GRS)
 * Litecoin (LTC)
 * MNPCoin (MNP)
 * DeepOnion (ONION)
-* Snowgem (XSG)
+* Snowgem (XSG) [Coming Soon]
 
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
