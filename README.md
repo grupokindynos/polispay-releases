@@ -7,7 +7,7 @@ For further information please make sure you check the official [PolisPay Websit
 ![](src/iphone_app.png)
 
 ## Latest Release
-Latest version is [v7.2.3](https://github.com/grupokindynos/polispay-releases/releases/tag/v7.2.3), you can read the changelog there!
+Latest version is [v7.3.0](https://github.com/grupokindynos/polispay-releases/releases/tag/v7.3.0), you can read the changelog there!
 
 ## PolisPay Multi Currency Wallet
 
@@ -16,9 +16,9 @@ PolisPay is the best non-custodial multi currency wallet. Keep your crypto safe 
 PolisPay includes the following features.
 
 * PolisPay Shift: instant conversion between cryptos.  
-* ElectrumX compatibility: add your own ElectrumX Server to keep track of your wallet.  
+* Blockbook compatibility: add your own Blockbook Server to keep track of your wallet.  
 * Full compatibility with **BIP39** (Mnemonic Phrases) and **BIP32** (HD Wallets).  
-* On-Device Private Key storage, no data gets into our servers. You are in total control of your assets.  
+* On-Device Private Key storage, no data gets into our servers. This is a trustless platform, you are in total control of your assets.  
 * Vouchers *[Open Beta]*: Pay for several services using Polis! Gift Cards have never been easier!
 
 ![macOS App](src/mac_app.png)
@@ -33,9 +33,10 @@ PolisPay includes the following features.
 * DigiByte (DGB)
 * Groestlcoin (GRS)
 * Litecoin (LTC)
-* MNPCoin (MNP)
-* DeepOnion (ONION)
-* Snowgem (XSG) [Coming Soon]
+* Snowgem (XSG)
+
+* DeepOnion (ONION) (Awaiting blockbook support)
+* MNPCoin (MNP) (Awaiting blockbook support)
 
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
@@ -47,4 +48,6 @@ PolisPay is also available in iOS and Android. We hope you'll like them!
   <a href='https://play.google.com/store/apps/details?id=com.polispay.copay&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='height:100px'/></a>
 
   <a href='https://apps.apple.com/mx/app/polispay-crypto-wallet/id1351572060?l=en'><img alt='Get it on the App Store' src='src/as_badge.svg' style='height:72px'/></a>
+
+  [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/polispay)
 </div>
