@@ -34,6 +34,7 @@ PolisPay includes the following features.
 * Groestlcoin (GRS)
 * Litecoin (LTC)
 * Snowgem (XSG)
+* Telos (TELOS)
 
 * DeepOnion (ONION) (Awaiting blockbook support)
 * MNPCoin (MNP) (Awaiting blockbook support)
