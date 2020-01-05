@@ -34,6 +34,7 @@ PolisPay includes the following features.
 * Groestlcoin (GRS)
 * Litecoin (LTC)
 * Telos (TELOS)
+* Divi (DIVI)
 
 Coming Soon.
 * DeepOnion (ONION) (Awaiting blockbook support)
