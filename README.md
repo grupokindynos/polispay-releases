@@ -7,7 +7,7 @@ For further information please make sure you check the official [PolisPay Websit
 ![](src/iphone_app.png)
 
 ## Latest Release
-Latest version is [v8.1.1](https://github.com/grupokindynos/polispay-releases/releases/latest), you can read the changelog there!
+Latest version is [v8.2.0](https://github.com/grupokindynos/polispay-releases/releases/latest), you can read the changelog there!
 
 ## PolisPay Multi Currency Wallet
 
@@ -39,6 +39,7 @@ PolisPay includes the following features.
 Coming Soon.
 * DeepOnion (ONION) (Awaiting blockbook support)
 * Snowgem (XSG)
+* Ethereum (ETH)
 
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
