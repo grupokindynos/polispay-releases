@@ -7,7 +7,7 @@ For further information please make sure you check the official [PolisPay Websit
 ![](src/iphone_app.png)
 
 ## Latest Release
-Latest version is [v8.2.1](https://github.com/grupokindynos/polispay-releases/releases/latest), you can read the changelog there!
+Latest version is [v8.3.0](https://github.com/grupokindynos/polispay-releases/releases/latest), you can read the changelog there!
 
 ## PolisPay Multi Currency Wallet
 
@@ -35,6 +35,7 @@ PolisPay includes the following features.
 * Litecoin (LTC)
 * Telos (TELOS)
 * Divi (DIVI)
+* BitGreen (BITG)
 
 Coming Soon.
 * DeepOnion (ONION) (Awaiting blockbook support)
