@@ -7,7 +7,7 @@ For further information please make sure you check the official [PolisPay Websit
 ![](src/iphone_app.png)
 
 ## Latest Release
-Latest version is [v8.4.1](https://github.com/grupokindynos/polispay-releases/releases/latest), you can read the changelog there!
+Latest version is [v8.5.0](https://github.com/grupokindynos/polispay-releases/releases/latest), you can read the changelog there!
 
 ## PolisPay Multi Currency Wallet
 
@@ -15,7 +15,7 @@ PolisPay is the best non-custodial multi currency wallet. Keep your crypto safe 
 
 PolisPay includes the following features.
 
-* PolisPay Shift: instant conversion between cryptos.  
+* PolisPay Shift [Coming Soon]: instant conversion between cryptos. 
 * Blockbook compatibility: add your own Blockbook Server to keep track of your wallet.  
 * Full compatibility with **BIP39** (Mnemonic Phrases) and **BIP32** (HD Wallets).  
 * On-Device Private Key storage, no data gets into our servers. This is a trustless platform, you are in total control of your assets.  
@@ -36,11 +36,16 @@ PolisPay includes the following features.
 * Telos (TELOS)
 * Divi (DIVI)
 * BitGreen (BITG)
+* Ethereum (ETH)
+* **Crown (CRW)**
+* **Aryacoin (AYA)**
+* **MasterWin (MW)**
+* **LunchMoney (LMW)**
 
 Coming Soon.
 * DeepOnion (ONION) (Awaiting blockbook support)
 * Snowgem (XSG)
-* Ethereum (ETH)
+
 
 ## Repo Information
 PolisPay's code is private as it contains important information used to communicate with Card Payment Provider Platforms. This repository contains only the releases for **desktop applications**.
